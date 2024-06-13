@@ -46,3 +46,6 @@ h1 {
 .container__imagem {
     padding: 1em;
 }
+@import url("estilos/cabecalho.css");
+@import url("estilos/corpo.css");
+@import url("estilos/rodape.css");
